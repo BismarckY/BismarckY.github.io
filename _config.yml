@@ -17,7 +17,7 @@
 ## => Site Settings
 ##############################
 # theme: minima
-theme: cayman
+remote_theme: pages-themes/cayman@v0.2.0
 text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://bismarcky.github.io
@@ -225,3 +225,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-remote-theme
