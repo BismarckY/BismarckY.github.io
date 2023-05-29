@@ -16,11 +16,13 @@
 
 ## => Site Settings
 ##############################
+# theme: minima
+theme: cayman
 text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+highlight_theme: tomorrow # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://bismarcky.github.io
 baseurl : # does not include hostname
-title   : Bismarck's webhosting site
+title   : Alles Klar Papa
 description: > # this means to ignore newlines until "Language & timezone"
   Site with Jounery & Technical articles
 
